@@ -1,4 +1,4 @@
-# tres-en-linea
+# tic-tac-toe
 
 ## Project setup
 ```
